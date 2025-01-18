@@ -1,5 +1,5 @@
-<h1 align="center">Hi I am Suvojit Deb</h1>
-<h3 align="center">A SDE enthusiast</h3>
+<h1 align="center">Hi 👋 I am Suvojit Deb</h1>
+<h3 align="center">A Future SDE enthusiast From India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niladrihazra&label=Profile%20views&color=0e75b6&style=flat" alt="niladrihazra" /> </p>
 
@@ -8,6 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/suvojit-deb-b0002b2bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suvojit-deb-b0002b2bb" height="30" width="40" /></a>
+<a href="https://x.com/deb_suvojit12?t=JmQOjpCJUlHsBDkk_mMOvg&s=08" target="blank"><img align="center" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?semt=ais_incoming" alt="deb_suvojit12?t=JmQOjpCJUlHsBDkk_mMOvg&s=08" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
