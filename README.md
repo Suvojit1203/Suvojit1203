@@ -1,125 +1,198 @@
 <h1 align="center">Hi 👋, I'm Suvojit Deb</h1>
-<h3 align="center">🚀 Final Year CSE (AI & ML) Student | Future Software Development Engineer | Blockchain & AI Enthusiast</h3>
+
+<h3 align="center">
+🚀 Final Year B.Tech CSE (AI & ML) Student | Future Software Development Engineer | Blockchain & AI Enthusiast
+</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Software+Developer;AI+%26+Machine+Learning+Enthusiast;Blockchain+Developer;Open+Source+Learner;Future+SDE" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Future+Software+Development+Engineer;AI+%26+Machine+Learning+Enthusiast;Blockchain+Developer;Open+Source+Learner" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Profile%20Visitors-500%2B-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open%20to-Internships-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open%20to-SDE%20Roles-orange?style=for-the-badge" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Suvojit1203&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-🎓 Final Year B.Tech Student (CSE - AI & ML)
+🎓 Final Year B.Tech Student in Computer Science & Engineering (AI & ML)
+
+💻 Passionate about Software Development, Artificial Intelligence, Machine Learning, and Blockchain Technology
 
 🌱 Currently Learning:
 - Data Structures & Algorithms
 - System Design
-- Blockchain Development
 - MERN Stack Development
-
-💡 Interested In:
-- Software Development
-- Artificial Intelligence
-- Machine Learning
-- Blockchain Technology
+- Blockchain Development
 - Cloud Computing
 
-🏆 Microsoft Azure AI Fundamentals Certified
+🚀 Looking for:
+- Software Development Engineer (SDE) Roles
+- Full Stack Developer Opportunities
+- AI/ML Opportunities
 
-📫 Reach Me: **suvojitdeb1203@gmail.com**
+🏆 Certifications:
+- Microsoft Azure AI Fundamentals
+- Oracle Certified Foundations Associate
+- Google Generative AI
 
-⚡ Fun Fact: **I turn coffee ☕ into code 💻**
+📫 Reach Me At:
+**debsuvojit12@gmail.com**
+
+⚡ Fun Fact:
+**I love turning innovative ideas into real-world applications.**
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/suvojit-deb-b0002b2bb/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://www.linkedin.com/in/suvojit-deb-b0002b2bb/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
-<a href="https://x.com/deb_suvojit12">
-<img src="https://skillicons.dev/icons?i=twitter" />
+&nbsp;&nbsp;
+<a href="https://x.com/deb_suvojit12" target="_blank">
+<img src="https://skillicons.dev/icons?i=twitter" height="50"/>
 </a>
-<a href="mailto:suvojitdeb1203@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+&nbsp;&nbsp;
+<a href="mailto:debsuvojit12@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 </p>
 
 ---
 
-## 🛠️ Languages & Technologies
+# 💻 Tech Stack
+
+### Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,mongodb,mysql,nodejs,react,express,git,github,linux,aws,firebase,tensorflow,vscode" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
+</p>
+
+### Frontend Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
+</p>
+
+### Backend Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Database
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### Cloud & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,firebase,git,github,linux,vscode" />
+</p>
+
+### AI / ML
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Suvojit1203&theme=radical&no-frame=true&margin-w=10&margin-h=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=Suvojit1203&theme=radical&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Suvojit1203&show_icons=true&theme=tokyonight" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Suvojit1203&theme=tokyonight" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Suvojit1203&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Suvojit1203&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suvojit1203&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Suvojit1203&theme=tokyo-night" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suvojit1203&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Suvojit1203&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+# 🚀 Featured Projects
 
 ### 🗳️ Blockchain-Based Online Voting System
-- Smart Contracts using Solidity
-- Face Verification using Face API
-- MetaMask Authentication
-- Sepolia Testnet Deployment
+✔ Smart Contracts using Solidity  
+✔ Face Verification Authentication  
+✔ MetaMask Wallet Integration  
+✔ Sepolia Testnet Deployment  
+✔ Secure & Transparent Voting
 
-### 🤖 AI/ML Projects
-- Student Loan Eligibility Prediction
-- Machine Learning Classification Models
-- Deep Learning Applications
+### 🤖 AI & Machine Learning Projects
+✔ Student Loan Eligibility Prediction  
+✔ Classification & Regression Models  
+✔ Deep Learning Applications
 
-### 🌐 Web Development Projects
-- MERN Stack Applications
-- Responsive Frontend Design
-- Firebase Integrated Applications
+### 🌐 Full Stack Development Projects
+✔ MERN Stack Applications  
+✔ Responsive Web Applications  
+✔ Firebase Integrated Projects
 
 ---
 
-## 💻 Coding Profiles
+# 📜 Certifications
+
+🏅 Microsoft Azure AI Fundamentals
+
+🏅 Oracle Certified Foundations Associate
+
+🏅 Google Generative AI
+
+🏅 Deloitte Technology Job Simulation
+
+---
+
+# 🎯 2026 Goals
+
+✅ Crack an SDE Role
+
+✅ Master Data Structures & Algorithms
+
+✅ Contribute More to Open Source
+
+✅ Build Scalable Full-Stack Applications
+
+✅ Deepen Knowledge in AI & Blockchain
+
+---
 
 <p align="center">
-<a href="https://github.com/Suvojit1203">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/suvojit-deb-b0002b2bb/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Suvojit1203&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
 
-<h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
+<p align="center">
+<i>"Code. Learn. Build. Repeat."</i>
+</p>
